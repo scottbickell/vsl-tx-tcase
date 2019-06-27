@@ -96,9 +96,6 @@ th.large-4 {
 th.large-4.last {
   padding-right: 16px; }
 
-th.large-4 center {
-  min-width: 152px; }
-
 th.large-6 {
   width: 284px;
   padding-left: 8px;
@@ -154,12 +151,6 @@ p.text-center {
 
 p.text-right {
   text-align: right; }
-
-@media only screen and (max-width: 616px) {
-  .small-float-center {
-    margin: 0 auto !important;
-    float: none !important;
-    text-align: center !important; } }
 
 img.float-center {
   margin: 0 auto;
@@ -389,28 +380,10 @@ sup {
   display: inline-block; }
 
 p.smaller {
-  font-size: 14px;
-  margin-bottom: 10px !important;
-  line-height: 16px; }
-
-p.presenter sup {
-  font-size: 10px !important;
-  line-height: 10px; }
-
-hr {
-  margin-top: 2px;
-  margin-bottom: 5px; }
+  font-size: 14px; }
 
 .no-bottom-margin {
   margin-bottom: 0; }
-
-p.presenter {
-  font-size: 12px;
-  text-align: center;
-  line-height: 16px; }
-
-.vsl-005587 {
-  color: #005587; }
 
 @media only screen and (max-width: 616px) {
   .social-media img {
